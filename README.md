@@ -9,6 +9,19 @@
 - Language models are one of the hotest topic in machine learning and particularly in NLP.
   https://twitter.com/alepiad/status/1440601793415634944
 
+## Wisdom
+
+> On select Wednesdays I write threads with advice for communication, career progress, and being a nice human being in general.
+
+- Three lessons on the interaction between academia and the industry when creating ML-based solutions.
+  https://twitter.com/alepiad/status/1541981404359172096
+
+- Tips to improve your technical writing skills that don't require talent or any source of divine inspiration.
+  https://twitter.com/alepiad/status/1407626631758315526
+
+- Three health habits for grad school that helped me survive my PhD with minimum psicological damage.
+  https://twitter.com/alepiad/status/1440601793415634944
+
 ## Theoretical topics
 
 > On select Thursdays I write intuitive explanations for theoretical topics in Computer Science.
