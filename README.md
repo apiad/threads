@@ -56,6 +56,11 @@
 - My process for making a literature review that doesn't suck and doesn't bore you to death.
   https://twitter.com/alepiad/status/1415237162056966144
 
+- The Vision-Steps-News-Contribution framework for presenting ideas.
+  https://twitter.com/alepiad/status/1410163990043541505
+  
+
+
 ## Theoretical topics
 
 > On select Thursdays I write intuitive explanations for theoretical topics in Computer Science.
@@ -75,6 +80,9 @@
 ## Philosophy of computer science
 
 > On select Fridays I write threads about philosophical topics in Computer Science.
+
+- What is intelligence? This is Alan Turing's idea.
+  https://twitter.com/alepiad/status/1441326567758577665
 
 - The ugly duckling theorem says there's no natural way to cluster objects.  
   https://twitter.com/alepiad/status/1550466105067524097
