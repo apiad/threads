@@ -1,6 +1,6 @@
 # My best Twitter content
 
-![Twitter Follow](https://img.shields.io/twitter/follow/alepiad?label=Follow%20on%20Twitter&color=red&style=flat)
+![Twitter Follow](https://img.shields.io/twitter/follow/alepiad?label=Follow%20on%20Twitter&style=social) ![Twitter URL](https://img.shields.io/twitter/url?label=Share%20on%20Twitter&style=social&url=https%3A%2F%2Fapiad.net%2Fthreads)
 
 This is a list of links to some of my best threads. Threads are grouped based on theme and sorted more or less by how I think they should be read.
 
