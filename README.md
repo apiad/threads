@@ -45,6 +45,12 @@
 
 > On select Wednesdays I write threads with advice for communication, career progress, and being a nice human being in general.
 
+- Presenting an idea with the Why-What-How framework.
+  https://twitter.com/alepiad/status/1308776873552420864
+
+- The Vision-Steps-News-Contribution framework for presenting ideas.
+  https://twitter.com/alepiad/status/1410163990043541505
+  
 - Three lessons on the interaction between academia and the industry when creating ML-based solutions.
   https://twitter.com/alepiad/status/1541981404359172096
 
@@ -57,9 +63,6 @@
 - My process for making a literature review that doesn't suck and doesn't bore you to death.
   https://twitter.com/alepiad/status/1415237162056966144
 
-- The Vision-Steps-News-Contribution framework for presenting ideas.
-  https://twitter.com/alepiad/status/1410163990043541505
-  
 ## Theoretical topics
 
 > On select Thursdays I write intuitive explanations for theoretical topics in Computer Science.
@@ -86,11 +89,26 @@
 - Are we living in a simulation? 
   https://twitter.com/alepiad/status/1451473428733743134
 
+- Can we answer all questions?
+  https://twitter.com/alepiad/status/1314603266890756096
+
+- How do you know that what you know is true?
+  https://twitter.com/alepiad/status/1350176180998123525
+
 - The ugly duckling theorem says there's no natural way to cluster objects.  
   https://twitter.com/alepiad/status/1550466105067524097
   
 - Self-driving cars and the trolley problem.
   https://twitter.com/alepiad/status/1372880546381103227
+
+- Would a superintelligence be nice with us?
+  https://twitter.com/alepiad/status/1317115192090701824
+
+- Mary and the nature of qualia.
+  https://twitter.com/alepiad/status/1306970447494348805
+
+- Consciousness and your sense of self.
+  https://twitter.com/alepiad/status/1357797357992243200
 
 ## Rants
 
