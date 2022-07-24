@@ -8,6 +8,9 @@
 
 - Language models are one of the hotest topic in machine learning and particularly in NLP.
   https://twitter.com/alepiad/status/1440601793415634944
+  
+- Generative Adversarial Networks are one of the coolest generative models, especially well-suited for image synthesis.
+  https://twitter.com/alepiad/status/1439877017248407555
 
 ## Wisdom
 
