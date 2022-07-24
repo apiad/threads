@@ -38,7 +38,8 @@
 - AutoML is a practical approach to the progressive automation of the most boring machine learning tasks.
   https://twitter.com/alepiad/status/1440369541209493508 
   
-
+- A list of 10 AutoML tools that you can use today.
+  https://twitter.com/alepiad/status/1513913374010228740
 
 ## Wisdom
 
@@ -59,8 +60,6 @@
 - The Vision-Steps-News-Contribution framework for presenting ideas.
   https://twitter.com/alepiad/status/1410163990043541505
   
-
-
 ## Theoretical topics
 
 > On select Thursdays I write intuitive explanations for theoretical topics in Computer Science.
@@ -76,7 +75,7 @@
   
 - The halting problem is the most famous undecidable problem in Computer Science.  
   https://twitter.com/alepiad/status/1537764283475447808
-  
+
 ## Philosophy of computer science
 
 > On select Fridays I write threads about philosophical topics in Computer Science.
@@ -89,3 +88,16 @@
 
 - The ugly duckling theorem says there's no natural way to cluster objects.  
   https://twitter.com/alepiad/status/1550466105067524097
+
+## Rants
+
+> Random stuff I've written on several topics.
+
+- Twitter is not a free University, but there's still value you can get from it.
+  https://twitter.com/alepiad/status/1546599842058829831
+  
+- Github Copilot, is it worth it?
+  https://twitter.com/alepiad/status/1411769327632670721
+
+- Recursion, what it is and why is it important.
+  https://twitter.com/alepiad/status/1547736618085208064
