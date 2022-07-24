@@ -38,7 +38,7 @@ On select Mondays I write threads about some of the greatest ideas in AI and com
 On select Tuesdays I write about technical stuff, tools, frameworks, and apps that you can use right away.
 
 - AutoML is a practical approach to the progressive automation of the most boring machine learning tasks.
-  <https://twitter.com/alepiad/status/1440369541209493508 >
+  <https://twitter.com/alepiad/status/1440369541209493508>
   
 - A list of 10 AutoML tools that you can use today.
   <https://twitter.com/alepiad/status/1513913374010228740>
@@ -63,7 +63,7 @@ On select Wednesdays I write threads with advice for communication, career progr
   <https://twitter.com/alepiad/status/1440601793415634944>
 
 - My process for making a literature review that doesn't suck and doesn't bore you to death.
-  https://twitter.com/alepiad/status/1415237162056966144
+  <https://twitter.com/alepiad/status/1415237162056966144>
 
 ## Theoretical topics
 
