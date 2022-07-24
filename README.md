@@ -6,7 +6,7 @@
 
 > On select Mondays I write threads about some of the greatest ideas in AI and computer science in general.
 
-- Language models are the hotest topic in ML right now.
+- Language models are one of the hotest topic in machine learning and particularly in NLP.
   https://twitter.com/alepiad/status/1440601793415634944
 
 ## Theoretical topics
