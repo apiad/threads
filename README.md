@@ -84,5 +84,8 @@
 - What is intelligence? This is Alan Turing's idea.
   https://twitter.com/alepiad/status/1441326567758577665
 
+- Are we living in a simulation? 
+  https://twitter.com/alepiad/status/1451473428733743134
+
 - The ugly duckling theorem says there's no natural way to cluster objects.  
   https://twitter.com/alepiad/status/1550466105067524097
