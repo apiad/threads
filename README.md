@@ -88,6 +88,9 @@
 
 - The ugly duckling theorem says there's no natural way to cluster objects.  
   https://twitter.com/alepiad/status/1550466105067524097
+  
+- Self-driving cars and the trolley problem.
+  https://twitter.com/alepiad/status/1372880546381103227
 
 ## Rants
 
