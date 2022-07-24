@@ -16,7 +16,7 @@
   https://twitter.com/alepiad/status/1443138514246414346
 
 - Generative vs Discriminative models.
-  
+  https://twitter.com/alepiad/status/1443500896919425024
 
 - Choosing the right metric.
   https://twitter.com/alepiad/status/1443863279709966346
@@ -71,8 +71,6 @@
   
 - The halting problem is the most famous undecidable problem in Computer Science.  
   https://twitter.com/alepiad/status/1537764283475447808
-  
-
   
 ## Philosophy of computer science
 
